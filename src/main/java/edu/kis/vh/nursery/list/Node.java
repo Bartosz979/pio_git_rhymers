@@ -1,5 +1,5 @@
 package edu.kis.vh.nursery.list;
-
+// TODO: Delete unused class
 public class Node {
 
     public int value;
