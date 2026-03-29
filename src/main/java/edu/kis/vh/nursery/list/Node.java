@@ -1,5 +1,5 @@
 package edu.kis.vh.nursery.list;
-
+// TODO: Delete unused class
 public class Node {
 
     public int value;
@@ -10,3 +10,4 @@ public class Node {
     }
 
 }
+//14. projekt jest poprawny po usunięciu klasy linked_list

@@ -27,3 +27,4 @@ public class DefaultRhymersFactory implements RhymersFactory {
     }
 
 }
+//15. Projekt przechodzi testy jednostkowe
