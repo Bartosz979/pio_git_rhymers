@@ -10,4 +10,4 @@ public class Node {
     }
 
 }
-git 
+//14. projekt jest poprawny po usunięciu klasy linked_list
